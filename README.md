@@ -19,8 +19,11 @@ a ComfyUI custom node for Qwen-Image,surpport VARM >=8GB
 
 手把手教程：
 
-［QwenImage-ComfyUI现已支持Lora，8GB显存起用
-不是一键包看不懂教程的勿扰］(https://www.bilibili.com/opus/1098584378738475026)
+[QwenImage-ComfyUI现已支持Lora，8GB显存起用
+不是一键包看不懂教程的勿扰](https://www.bilibili.com/opus/1098584378738475026)
+
+![lyf](https://github.com/user-attachments/assets/a575c71d-acd8-45dc-9232-b9cca9828f18)
+
 
 [Qwen-Image蒸馏5倍加速工作流来啦，8gb显存起用，4090显卡10步可15秒出图（内附喂饭级制作教程）](https://mp.weixin.qq.com/s/kqSdi7R_-O23mex8HaKd2A)
 
