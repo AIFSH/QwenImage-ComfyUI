@@ -2,7 +2,7 @@
 a ComfyUI custom node for Qwen-Image,surpport VARM >=8GB
 
 ## Update
-[开源Qwen-Image-Edit图片编辑工作流，8gb显存起用，4090显卡8步可17秒出图（内附喂饭级制作教程）](https://mp.weixin.qq.com/s/WLpuw5XraJaZcPUvU6mTHw)
+2025.8.19 [开源Qwen-Image-Edit图片编辑工作流，8gb显存起用，4090显卡8步可17秒出图（内附喂饭级制作教程）](https://mp.weixin.qq.com/s/WLpuw5XraJaZcPUvU6mTHw)
 ![图片1](https://github.com/user-attachments/assets/9c70fcee-3755-4e84-ac97-be58691ec083)
 
 ## How to use
